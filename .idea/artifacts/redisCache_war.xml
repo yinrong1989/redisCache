@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="redisCache:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="redisCache.war">
+      <element id="artifact" artifact-name="redisCache:war exploded" />
+    </root>
+  </artifact>
+</component>
